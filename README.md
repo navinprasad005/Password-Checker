@@ -6,4 +6,4 @@ Create a password checker
   1) Minimum 8 characters
   2) Should be a Alphanumeric(aleast one alphabet and one number)
   3) Should contain minimum 1 special Character -[!@#$%^&*]
-  4) password should not be same as the username
+  4) Password should not be same as the username
